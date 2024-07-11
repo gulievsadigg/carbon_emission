@@ -1,5 +1,5 @@
 # carbon_emission
-his tool calculates the carbon footprint based on user input of their energy usage, waste production, and business travel. It generates a detailed PDF report with an analysis summary and suggestions for reducing CO2 emissions.
+This tool calculates the carbon footprint based on user input of their energy usage, waste production, and business travel. It generates a detailed PDF report with an analysis summary and suggestions for reducing CO2 emissions.
 
 ## Features
 
